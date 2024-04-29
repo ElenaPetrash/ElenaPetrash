@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on web development, front or backend.
 - 📫 How to reach me in Linckedin https://www.linkedin.com/in/elena-petrash-37976826a/
 - ⚡ Fun fact: I making delicious sweets in my free time.
-- 
+  
 
 <!---
 ElenaPetrash/ElenaPetrash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
